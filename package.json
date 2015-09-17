@@ -1,0 +1,22 @@
+{
+  "name": "shielder",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "nw": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "kreja",
+    "email": "kellywang.ok@gmail.com",
+    "url": "https://github.com/kreja"
+  },
+  "scripts": {
+    "start": "nw"
+  },
+  "license": "ISC"
+}

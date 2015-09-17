@@ -1,0 +1,25 @@
+{
+  "name": "shielder",
+  "main": "index.js",
+  "version": "0.1.0",
+  "authors": [
+    "kellywang.ok@gmail.com"
+  ],
+  "description": "shielder for subtitles",
+  "keywords": [
+    "shielder",
+    "nw"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "jquery-minicolors": "~2.1.12"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "shelder",
+  "version": "0.1.0",
+  "main": "index.html",
+  "window": {
+    "always-on-top": true,
+    "toolbar": false,
+    "page-cache": true,
+    "width": 680,
+    "height": 100,
+    "title": "shelder",
+    "position": "center",
+    "icon": "app.icns",
+    "transparent": true
+  },
+  "author": {
+    "name": "kreja",
+    "email": "kellywang.ok@gmail.com",
+    "url": "https://github.com/kreja"
+  },
+  "keywords": [
+    "shielder",
+    "nw"
+  ],
+  "scripts": {
+    "start": "nw"
+  }
+}
