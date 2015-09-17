@@ -16,7 +16,7 @@
     "url": "https://github.com/kreja"
   },
   "scripts": {
-    "start": "nw"
+    "start": "nw shielder"
   },
   "license": "ISC"
 }

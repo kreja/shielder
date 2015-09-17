@@ -20,6 +20,18 @@ $(document).on("ready", function() {
 		 */
 		init: function(){
 			var ctx = this;
+			console.log(111);
+
+			// 菜单
+			if (process.platform === "darwin"){
+				var nativeMenuBar = new gui.Menu({type: "menubar"});
+				nativeMenuBar.createMacBuiltin("Shielder",{
+				    hideEdit: true,
+				    hideWindow: true
+				});
+
+				win.menu = nativeMenuBar;
+			}
 
 			ctx.initColorPicker();
 			ctx.setShortcut();
@@ -73,7 +85,7 @@ $(document).on("ready", function() {
 
 			var minicolors = document.querySelector('.minicolors');
 			var pickerIsOpen = minicolors.className.indexOf('minicolors-focus') > -1;
-			console.log(pickerIsOpen);
+
 			return pickerIsOpen;
 		},
 		/**
