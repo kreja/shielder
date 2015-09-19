@@ -2,11 +2,11 @@
 笑死了 ～(￣▽￣～)(～￣▽￣)～
 
 <p>
-	<img src="./upload/Shielder1.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
+	<img src="https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder1.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
 </p>
 
 <p>
-<img src="./upload/Shielder2.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
+<img src="https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder2.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
 </p>
 
 * 鼠标移上去变透明
