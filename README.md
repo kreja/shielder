@@ -1,13 +1,9 @@
 # 字幕遮挡器 Shielder
 笑死了 ～(￣▽￣～)(～￣▽￣)～
 
-<p>
-	<img src="https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder1.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
-</p>
+![shielder1 截图](https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder1.png)
 
-<p>
-<img src="https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder2.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
-</p>
+![shielder2 截图](https://raw.githubusercontent.com/kreja/shielder/master/upload/shielder2.png)
 
 * 鼠标移上去变透明
 * 快捷键 `CMD` + `T` 变透明
