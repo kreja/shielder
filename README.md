@@ -1,9 +1,20 @@
-# 字幕遮挡器
+# 字幕遮挡器 Shielder
 笑死了 ～(￣▽￣～)(～￣▽￣)～
+
+<p>
+	<img src="./upload/Shielder1.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
+</p>
+
+<p>
+<img src="./upload/Shielder2.png" alt="Shielder1" style="box-shadow: 0 0 35px 4px #bbb">
+</p>
 
 * 鼠标移上去变透明
 * 快捷键 `CMD` + `T` 变透明
 * 选择背景色
+
+[下载 Shielder](http://kreja.github.io/public/upload/app/Shielder.zip)
+
 
 # 启动
 * 根目录下执行 `npm install`
