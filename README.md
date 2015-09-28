@@ -9,7 +9,7 @@
 * 快捷键 `CMD` + `T` 变透明
 * 选择背景色
 
-[下载 Shielder](http://kreja.github.io/public/upload/app/Shielder.zip)
+[下载 Shielder](http://7xn3fo.dl1.z0.glb.clouddn.com/Shielder.zip)
 
 
 # 启动
